@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidAnimationSet.iml" filepath="$PROJECT_DIR$/AndroidAnimationSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Animation-Set.iml" filepath="$PROJECT_DIR$/Animation-Set.iml" group="Animation-Set" />
+      <module fileurl="file://$PROJECT_DIR$/app/Animation-Set-app.iml" filepath="$PROJECT_DIR$/app/Animation-Set-app.iml" group="Animation-Set/app" />
+      <module fileurl="file://$PROJECT_DIR$/drawable-animation/Animation-Set-drawable-animation.iml" filepath="$PROJECT_DIR$/drawable-animation/Animation-Set-drawable-animation.iml" group="Animation-Set/drawable-animation" />
+      <module fileurl="file://$PROJECT_DIR$/property-animation/Animation-Set-property-animation.iml" filepath="$PROJECT_DIR$/property-animation/Animation-Set-property-animation.iml" group="Animation-Set/property-animation" />
+      <module fileurl="file://$PROJECT_DIR$/reveal-animation/Animation-Set-reveal-animation.iml" filepath="$PROJECT_DIR$/reveal-animation/Animation-Set-reveal-animation.iml" group="Animation-Set/reveal-animation" />
+      <module fileurl="file://$PROJECT_DIR$/ripple-animation/Animation-Set-ripple-animation.iml" filepath="$PROJECT_DIR$/ripple-animation/Animation-Set-ripple-animation.iml" group="Animation-Set/ripple-animation" />
+      <module fileurl="file://$PROJECT_DIR$/state-animation/Animation-Set-state-animation.iml" filepath="$PROJECT_DIR$/state-animation/Animation-Set-state-animation.iml" group="Animation-Set/state-animation" />
+      <module fileurl="file://$PROJECT_DIR$/transition-animation/Animation-Set-transition-animation.iml" filepath="$PROJECT_DIR$/transition-animation/Animation-Set-transition-animation.iml" group="Animation-Set/transition-animation" />
+      <module fileurl="file://$PROJECT_DIR$/vector-animation/Animation-Set-vector-animation.iml" filepath="$PROJECT_DIR$/vector-animation/Animation-Set-vector-animation.iml" group="Animation-Set/vector-animation" />
+      <module fileurl="file://$PROJECT_DIR$/view-animation/Animation-Set-view-animation.iml" filepath="$PROJECT_DIR$/view-animation/Animation-Set-view-animation.iml" group="Animation-Set/view-animation" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drawable-animation/drawable-animation.iml" filepath="$PROJECT_DIR$/drawable-animation/drawable-animation.iml" />
+      <module fileurl="file://F:/github/AndroidAnimationSet/drawable-animation/drawableanimation.iml" filepath="F:/github/AndroidAnimationSet/drawable-animation/drawableanimation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/property-animation/property-animation.iml" filepath="$PROJECT_DIR$/property-animation/property-animation.iml" />
+      <module fileurl="file://F:/github/AndroidAnimationSet/property-animation/propertyanimation.iml" filepath="F:/github/AndroidAnimationSet/property-animation/propertyanimation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reveal-animation/reveal-animation.iml" filepath="$PROJECT_DIR$/reveal-animation/reveal-animation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ripple-animation/ripple-animation.iml" filepath="$PROJECT_DIR$/ripple-animation/ripple-animation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/state-animation/state-animation.iml" filepath="$PROJECT_DIR$/state-animation/state-animation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/transition-animation/transition-animation.iml" filepath="$PROJECT_DIR$/transition-animation/transition-animation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vector-animation/vector-animation.iml" filepath="$PROJECT_DIR$/vector-animation/vector-animation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/view-animation/view-animation.iml" filepath="$PROJECT_DIR$/view-animation/view-animation.iml" />
+      <module fileurl="file://F:/github/AndroidAnimationSet/view-animation/viewanimation.iml" filepath="F:/github/AndroidAnimationSet/view-animation/viewanimation.iml" />
+    </modules>
+  </component>
+</project>
